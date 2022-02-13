@@ -1,4 +1,4 @@
-### Eai! Me chamo Deivison Soares, atualmente estou cursando Análise e Desenvolvimento de Sistemas
+### Eai! Me chamo Deivison Soares, atualmente estou cursando Análise e Desenvolvimento de Sistemas e HTML5 e CSS3 no Curso em Vídeo
 
 <div align="center">
   <a href="https://github.com/DeivSoares">
