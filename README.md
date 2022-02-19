@@ -1,4 +1,4 @@
-### Eai! Me chamo Deivison Soares, atualmente estou cursando Análise e Desenvolvimento de Sistemas na UVA e no Curso em Video faço HTML5 e CSS3.
+### Eai! Me chamo Deivison Soares, atualmente estou cursando Análise e Desenvolvimento de Sistemas na UVA e no Curso em Video faço HTML5, CSS3 e JavaScript.
 
 <div align="center">
   <a href="https://github.com/DeivSoares">
