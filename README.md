@@ -1,4 +1,4 @@
-### Eai! Me chamo <a href="https://www.linkedin.com/in/deivison-soares-990177232/" >Deivison Soares</a>, atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida. 
+### Eai! Me chamo <a href="https://www.linkedin.com/in/deivison-soares-990177232/" target="_blank">Deivison Soares</a>, atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida. 
 ## Let's Bora Codar?
 
 <div align="center">
