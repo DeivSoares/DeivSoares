@@ -1,5 +1,11 @@
-### Eai! Me chamo <a href="https://www.linkedin.com/in/deivison-soares-990177232/" target="_blank">Deivison Soares</a>, atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida. 
+### <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">Eai! Me chamo <a href="https://www.linkedin.com/in/deivison-soares-990177232/" target="_blank">Deivison Soares</a>, atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida. 
 ## Let's Bora Codar?
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=DeivSoares&label=Profile%20Views&color=orange&style=flat-square" alt="DarshGupta1910"></p>
+
+<h3>📊 Github Stats</h3>
+
+<img src="https://github.com/itstommi/itstommi/blob/main/Rainbow.gif" width="100%">
 
 <div align="center">
   <a href="https://github.com/DeivSoares">
@@ -34,7 +40,8 @@
   </div>
   
   <div align="center">
-  
+    <a href="https://github.com/DeivSoares/github-readme-activity-graph"><img alt="DeivSoares;s graph" src="https://activity-graph.herokuapp.com/graph?username=DeivSoares&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+    
   ![Snake animation](https://github.com/DeivSoares/DeivSoares/blob/output/github-contribution-grid-snake.svg)
   
 </div>
