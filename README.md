@@ -1,4 +1,9 @@
-### <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">Eai! Me chamo <a href="https://www.linkedin.com/in/deivison-soares-990177232/" target="_blank">Deivison Soares</a>, atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida. 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDDD&size=35&center=true&vCenter=true&width=1000&lines=Eai,+me+chamo+Deivison+Soares!+;Um+dia+eu+serei+um+Desenvolvedor+Front-End.+;Quer+acompanhar+minha+jornada?)](https://git.io/typing-svg)
+
+
+<a href="https://www.linkedin.com/in/deivison-soares-990177232/" target="_blank">Acessa meu LinkedIn!</a>
+<br>
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida.
 ## Let's Bora Codar?
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=DeivSoares&label=Profile%20Views&color=orange&style=flat-square" alt="DarshGupta1910"></p>
