@@ -44,8 +44,7 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade
     <a href="https://www.instagram.com/deiv_soares/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
   
-  <div align="center">
-    <a href="https://github.com/DeivSoares/github-readme-activity-graph"><img alt="DeivSoares;s graph" src="https://activity-graph.herokuapp.com/graph?username=DeivSoares&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <div align="center">    
     
   ![Snake animation](https://github.com/DeivSoares/DeivSoares/blob/output/github-contribution-grid-snake.svg)
   
