@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/deivison-soares-990177232/" target="_blank">Acessa meu LinkedIn!</a>
 <br>
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida.
-## Let's Bora Codar?
+## Bora Codar?
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=DeivSoares&label=Profile%20Views&color=orange&style=flat-square" alt="DarshGupta1910"></p>
 
@@ -14,7 +14,7 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade
 
 <div align="center">
   <a href="https://github.com/DeivSoares">
-    <img height="150.5em" src="https://github-readme-stats.vercel.app/api?username=DeivSoares&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="150.5em" src="https://github-readme-stats.vercel.app/api?username=DeivSoares&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="150.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeivSoares&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=deivsoares&theme=chartreuse-dark&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
 </div>
