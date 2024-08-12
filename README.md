@@ -27,11 +27,11 @@ Graduado em Análise e Desenvolvimento de Sistemas.
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Deiv-Js" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Deiv-Js" height="30" width="40"
+    <img align="center" alt="Deiv-React" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Deiv-Js" height="30" width="40"
+    <img align="center" alt="Deiv-Node" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Deiv-Js" height="30" width="40"
+    <img align="center" alt="Deiv-Git" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="Deiv-Csharp" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
