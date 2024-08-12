@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fec16a&size=35&center=true&vCenter=true&width=1000&lines=Eai,+me+chamo+Deivison+Soares!+;Um+dia+eu+serei+um+Desenvolvedor+Front-End.+;Quer+acompanhar+minha+jornada?)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fec16a&size=35&center=true&vCenter=true&width=1000&lines=Eai,+me+chamo+Deivison+Soares!+;Eu+sou+um+Desenvolvedor+Front-End.+;Vem+acompanhar+minha+jornada?)](https://git.io/typing-svg)
 
 
 <a href="https://deivsoares.github.io/Portfolio/" target="_blank">Acessa meu Portfolio!</a>
 <br>
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida.
-## Bora Codar?
+Graduado em Análise e Desenvolvimento de Sistemas.
+## Vamos codar?
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=DeivSoares&label=Profile%20Views&color=orange&style=flat-square" alt="DarshGupta1910"></p>
 
