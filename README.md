@@ -49,11 +49,11 @@ Graduado em Análise e Desenvolvimento de Sistemas.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/deivison-soares-990177232/" target="_blank">
+<a href="https://www.linkedin.com/in/deivsoares-dev/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:deivisonsoares16160@outlook.com" target="_blank">
+<a href="mailto:suporte@dvsweb.com.br" target="_blank">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 </a>
 
